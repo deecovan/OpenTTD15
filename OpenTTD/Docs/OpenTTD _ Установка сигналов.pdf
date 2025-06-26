@@ -1,0 +1,287 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset="utf-8" />
+        
+        <link rel="icon" href="/static/favicon.ico" type="image/icon" />
+        
+        <link rel="stylesheet" href="/static/truewiki/truewiki.css" type="text/css" />
+<link rel="stylesheet" href="/static/css/openttd.css" type="text/css" />
+        <title>OpenTTD | Установка сигналов</title>
+    </head>
+    <body>
+        <header>
+            <div id="pagename">
+                Установка сигналов
+            </div>
+            <div id="openttd-logo">
+    <div id="openttd-logo-text"><a href="/en/"><img src="/static/img/layout/openttd-logo.png" alt="OpenTTD" /></a></div>
+</div>
+
+            
+        </header>
+        <nav>
+            <ul id="navigation-bar">
+                <li class="crumb"><a href="/ru/">OpenTTD&#x27;s Wiki</a></li>
+<li class="crumb"><a href="/ru/Manual/">Manual</a></li>
+<li class="crumb selected"><a href="/ru/Manual/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%BE%D0%B2">Установка сигналов</a></li>
+            </ul>
+            <ul id="navigation-bar" class="right">
+                
+                <li>
+                    
+                    
+                        <a href="/ru/Manual/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%BE%D0%B2.mediawiki">
+                        View Source
+                        
+                        </a>
+                    
+                    
+                </li>
+                
+                
+                
+                <li>
+                    <a href="https://github.com/OpenTTD/wiki-data/commits/main/Page/ru/Manual/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%BE%D0%B2.mediawiki">View History</a>
+                </li>
+                
+                
+                <li>
+                    <a href="/user/login?location=ru/Manual/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%BE%D0%B2">Login</a>
+                </li>
+                
+            </ul>
+        </nav>
+        
+        <div id="search">
+            <form action="/search" target="_new">
+                
+                <input type="hidden" name="language" value="ru" />
+                
+                <input type="text" autocomplete="off" name="query" value="" placeholder="Search wiki" />
+                <div id="search-submit">
+                    <input type="submit" value="" />
+                    <div></div>
+                </div>
+            </form>
+        </div>
+        
+        <main>
+            <div id="language-bar">
+                <ul>
+                    <li>
+    <a href="/en/Manual/Building%20signals"><img src="/uploads/en/Flag.png"></a>
+    <a href="/en/Manual/Building%20signals" title="en/Manual/Building signals">en</a>
+</li><li>
+    <a href="/ca/Manual/Col%C2%B7locar%20senyals"><img src="/uploads/ca/Flag.png"></a>
+    <a href="/ca/Manual/Col%C2%B7locar%20senyals" title="ca/Manual/Col·locar senyals">ca</a>
+</li><li>
+    <a href="/de/Manual/Gleissignale%20setzen"><img src="/uploads/de/Flag.png"></a>
+    <a href="/de/Manual/Gleissignale%20setzen" title="de/Manual/Gleissignale setzen">de</a>
+</li><li>
+    <a href="/es/Manual/Colocar%20se%C3%B1ales"><img src="/uploads/es/Flag.png"></a>
+    <a href="/es/Manual/Colocar%20se%C3%B1ales" title="es/Manual/Colocar señales">es</a>
+</li><li>
+    <a href="/fr/Manual/Construire%20des%20signaux"><img src="/uploads/fr/Flag.png"></a>
+    <a href="/fr/Manual/Construire%20des%20signaux" title="fr/Manual/Construire des signaux">fr</a>
+</li><li>
+    <a href="/hu/Manual/Jelz%C5%91k%20%C3%A9p%C3%ADt%C3%A9se"><img src="/uploads/hu/Flag.png"></a>
+    <a href="/hu/Manual/Jelz%C5%91k%20%C3%A9p%C3%ADt%C3%A9se" title="hu/Manual/Jelzők építése">hu</a>
+</li><li>
+    <a href="/it/Manuale/Costruzione%20segnali"><img src="/uploads/it/Flag.png"></a>
+    <a href="/it/Manuale/Costruzione%20segnali" title="it/Manuale/Costruzione segnali">it</a>
+</li><li>
+    <a href="/ja/Manual/Building%20signals"><img src="/uploads/ja/Flag.png"></a>
+    <a href="/ja/Manual/Building%20signals" title="ja/Manual/Building signals">ja</a>
+</li><li>
+    <a href="/nl/Manual/Seinen%20plaatsen"><img src="/uploads/nl/Flag.png"></a>
+    <a href="/nl/Manual/Seinen%20plaatsen" title="nl/Manual/Seinen plaatsen">nl</a>
+</li><li>
+    <a href="/pl/Manual/Budowa%20sygna%C5%82%C3%B3w"><img src="/uploads/pl/Flag.png"></a>
+    <a href="/pl/Manual/Budowa%20sygna%C5%82%C3%B3w" title="pl/Manual/Budowa sygnałów">pl</a>
+</li><li>
+    <a href="/ru/Manual/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%BE%D0%B2"><img src="/uploads/ru/Flag.png"></a>
+    <strong class="selflink">ru</strong>
+</li><li>
+    <a href="/zh/Manual/%E6%95%99%E7%A8%8B/%E6%94%BE%E7%BD%AE%E4%BF%A1%E5%8F%B7%E7%81%AF"><img src="/uploads/zh/Flag.png"></a>
+    <a href="/zh/Manual/%E6%95%99%E7%A8%8B/%E6%94%BE%E7%BD%AE%E4%BF%A1%E5%8F%B7%E7%81%AF" title="zh/Manual/教程/放置信号灯">zh</a>
+</li>
+                </ul>
+            </div>
+            <div style="float:right; padding-left:12px; background:none;"><div style="width:180px; border:1px solid #000000; background:#ffb466; padding:5px; -moz-border-radius-topleft:5px; -moz-border-radius-topright:5px; font-size: 12pt;"><center><strong><font size="3"><a href="/ru/Manual/" title="ru/Manual/Main Page">OpenTTD</a> <a href="/ru/Manual/Tutorial/" title="ru/Manual/Tutorial/Main Page">Учебник</a></font></strong></center></div><div style="width:180px; border:1px solid black; border-top-width: 0px; background:#ffd496; padding:5px; font-size: 8pt;"><p>Базовые знания:
+</p><dl><dd>
+<a href="/ru/Manual/Tutorial/" title="ru/Manual/Tutorial/Main Page">Начало</a>
+</dd><dd>
+<a href="/ru/Manual/Tutorial/%D0%90%D0%B2%D1%82%D0%BE%D0%B1%D1%83%D1%81%D1%8B" title="ru/Manual/Tutorial/Автобусы">Автобусы</a>
+</dd><dd>
+<a href="/ru/Manual/Tutorial/%D0%9F%D0%BE%D0%B5%D0%B7%D0%B4%D0%B0" title="ru/Manual/Tutorial/Поезда">Поезда</a>
+</dd><dd>
+<a href="/ru/Manual/Tutorial/%D0%A1%D0%B0%D0%BC%D0%BE%D0%BB%D1%91%D1%82%D1%8B" title="ru/Manual/Tutorial/Самолёты">Самолёты</a>
+</dd><dd>
+<a href="/ru/Manual/Tutorial/%D0%97%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5" title="ru/Manual/Tutorial/Заключение">Заключение</a>
+</dd></dl><p>
+Дополнительно:
+</p><dl><dd>
+<a href="/ru/Manual/Tutorial/%D0%94%D0%B2%D0%B5%20%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D1%8B" title="ru/Manual/Tutorial/Две платформы">Две платформы</a>
+</dd><dd>
+<a href="/ru/Manual/Tutorial/%D0%94%D0%B2%D0%B5%20%D0%BA%D0%BE%D0%BB%D0%B5%D0%B8" title="ru/Manual/Tutorial/Две колеи">Две колеи</a>
+</dd><dd>
+<a href="/ru/Manual/Tutorial/%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%B0%D1%8F%20%D1%81%D0%B5%D1%82%D1%8C" title="ru/Manual/Tutorial/Простая сеть">Простая сеть</a>
+</dd></dl><p>
+Учебник в игре:
+</p><dl><dd>
+<a href="/ru/Manual/Tutorial/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA%20%D0%B2%20%D0%B8%D0%B3%D1%80%D0%B5" title="ru/Manual/Tutorial/Учебник в игре">Учебник в игре</a>
+</dd></dl></div><div style="width:180px; border:1px solid #000000; background:#ffb466; padding:5px; font-size: 12pt; margin-top: 10px;"><center><strong><font size="3">Углубленные инструкции</font></strong></center></div><div style="width:180px; border:1px solid black; border-top-width: 0px; background:#ffd496; padding:5px; -moz-border-radius-bottomleft:5px; -moz-border-radius-bottomright:8px; font-size: 8pt;"><p>
+<span style="font-weight:bold;">
+
+</p>Железные дороги:
+<dl><dd>
+<a href="/ru/Manual/%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE%20%D0%BA%D0%BE%D0%BB%D0%B5%D0%B8" title="ru/Manual/Строительство колеи">Строительство колеи</a>
+</dd><dd>
+<a href="/ru/Manual/%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE%20%D0%B4%D0%B5%D0%BF%D0%BE" title="ru/Manual/Строительство депо">Строительство депо</a>
+</dd><dd>
+<a href="/ru/Manual/%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE%20%D0%B6/%D0%B4%20%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%B9" title="ru/Manual/Строительство ж/д станций">Строительство ж/д станций</a>
+</dd><dd>
+<strong class="selflink">Установка сигналов</strong>
+</dd><dd>
+<a href="/ru/Manual/%D0%9F%D0%BE%D0%BA%D1%83%D0%BF%D0%BA%D0%B0%20%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B0%20%D0%BF%D0%BE%D0%B5%D0%B7%D0%B4%D0%BE%D0%B2" title="ru/Manual/Покупка и продажа поездов">Покупка и продажа поездов</a>
+</dd><dd>
+<a href="/ru/Manual/%D0%A0%D0%B5%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F%20%D0%B6/%D0%B4%20%D0%BF%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D0%B0" title="ru/Manual/Реконструкция ж/д полотна">Реконструкция ж/д полотна</a>
+</dd></dl>Автодороги:
+<dl><dd>
+<a href="/ru/Manual/%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE%20%D0%B0%D0%B2%D1%82%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B3" title="ru/Manual/Строительство автодорог">Строительство автодорог</a>
+</dd><dd>
+<a href="/ru/Manual/%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE%20%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%B9%20%D0%B8%20%D0%BF%D0%BE%D0%B3%D1%80%D1%83%D0%B7%D0%BE%D1%87%D0%BD%D1%8B%D1%85%20%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC" title="ru/Manual/Строительство станций и погрузочных платформ">Строительство станций и погрузочных платформ</a>
+</dd><dd>
+<a href="/ru/Manual/%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE%20%D0%B3%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%B9" title="ru/Manual/Строительство гаражей">Строительство гаражей</a>
+</dd><dd>
+<a href="/ru/Manual/%D0%9F%D0%BE%D0%BA%D1%83%D0%BF%D0%BA%D0%B0%20%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B0%20%D0%B0%D0%B2%D1%82%D0%BE%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B0" title="ru/Manual/Покупка и продажа автотранспорта">Покупка и продажа автотранспорта</a>
+</dd></dl>Водные маршруты:
+<dl><dd>
+<a href="/ru/Manual/%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE%20%D0%BF%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D0%B5%D0%B9" title="ru/Manual/Строительство пристаней">Строительство пристаней</a>
+</dd><dd>
+<a href="/ru/Manual/%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE%20%D0%B4%D0%BE%D0%BA%D0%BE%D0%B2" title="ru/Manual/Строительство доков">Строительство доков</a>
+</dd><dd>
+<a href="/ru/Manual/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%B1%D1%83%D1%91%D0%B2" title="ru/Manual/Установка буёв">Установка буёв</a>
+</dd><dd>
+<a href="/ru/Manual/%D0%9F%D0%BE%D0%BA%D1%83%D0%BF%D0%BA%D0%B0%20%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B0%20%D1%81%D1%83%D0%B4%D0%BE%D0%B2" title="ru/Manual/Покупка и продажа судов">Покупка и продажа судов</a>
+</dd><dd>
+<a href="/ru/Manual/%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE%20%D0%B2%D0%BE%D0%B4%D0%BE%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%BE%D0%B2" title="ru/Manual/Строительство водоканалов">Строительство водоканалов</a>
+</dd></dl>Авиация:
+<dl><dd>
+<a href="/ru/Manual/%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE%20%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D0%BE%D0%B2" title="ru/Manual/Строительство аэропортов">Строительство аэропортов</a>
+</dd><dd>
+<a href="/ru/Manual/%D0%9F%D0%BE%D0%BA%D1%83%D0%BF%D0%BA%D0%B0%20%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B0%20%D0%B0%D0%B2%D0%B8%D0%B0%D1%86%D0%B8%D0%B8" title="ru/Manual/Покупка и продажа авиации">Покупка и продажа авиации</a>
+</dd></dl>Общие строительные темы:
+<dl><dd>
+<a href="/ru/Manual/%D0%9D%D0%B0%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BC%D0%BE%D1%81%D1%82%D0%BE%D0%B2" title="ru/Manual/Наведение мостов">Наведение мостов</a>
+</dd><dd>
+<a href="/ru/Manual/%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D0%B8" title="ru/Manual/Туннели">Туннели</a>
+</dd><dd>
+<a href="/ru/Manual/%D0%9B%D0%B0%D0%BD%D0%B4%D1%88%D0%B0%D1%84%D1%82%D0%BD%D1%8B%D0%B9%20%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD" title="ru/Manual/Ландшафтный дизайн">Ландшафт</a>
+</dd></dl>Действия с техникой:
+<dl><dd>
+<a href="/ru/Manual/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F" title="ru/Manual/Задания">Задания</a>
+</dd><dd>
+<a href="/ru/Manual/%D0%9F%D0%B5%D1%80%D0%B5%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="ru/Manual/Переоборудование">Переоборудование</a>
+</dd><dd>
+<a href="/ru/Manual/%D0%97%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0%20%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B0" title="ru/Manual/Замена транспорта">Замена транспорта</a>
+</dd><dd>
+<a href="/ru/Manual/%D0%93%D1%80%D1%83%D0%BF%D0%BF%D1%8B%20%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D1%85%20%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2" title="ru/Manual/Группы транспортных средств">Группирование транспорта</a>
+</dd></dl></span>
+</div></div><p>
+<b><a href="/ru/Manual/%D0%A1%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D1%8B" title="ru/Manual/Сигналы">Сигналы</a></b> используются для направления ваших поездов и предотвращения их столкновений.
+
+</p><p>Это руководство предназначено для введения в основы сигнализации. Для более детальной информации о различных видах сигналов и их применении см. <a href="/ru/Manual/%D0%A1%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D1%8B" title="ru/Manual/Сигналы">Сигналы</a>
+</p><table id="toc">
+<tbody>
+<tr><td>
+<div id="toctitle"><h2>Contents</h2></div><ul>
+<li class="toclevel-1">
+<a href="#razmeshchenie-signala">
+<span class="tocnumber">1</span>
+<span class="toctext">Размещение сигнала</span>
+</a>
+</li>
+<li class="toclevel-1">
+<a href="#razmeshchenie-podriad-neskolkikh-signalov">
+<span class="tocnumber">2</span>
+<span class="toctext">Размещение подряд нескольких сигналов.</span>
+</a>
+</li>
+<li class="toclevel-1">
+<a href="#smena-tipa-signala">
+<span class="tocnumber">3</span>
+<span class="toctext">Смена типа сигнала</span>
+</a>
+</li>
+<li class="toclevel-1">
+<a href="#udalenie-signalov">
+<span class="tocnumber">4</span>
+<span class="toctext">Удаление сигналов</span>
+</a>
+</li>
+</ul>
+</td></tr>
+</tbody>
+</table><h2><a class="anchor" href="#razmeshchenie-signala"></a><span class="mw-headline" id="razmeshchenie-signala">Размещение сигнала</span></h2><ol><li>
+Откройте панель инструментов <i>Строительство железных дорог</i> нажатием кнопки <a href="/File/en/Manual/Manual%20html%20m772c5b23.png" class="image" title="/File/en/Manual/Manual html m772c5b23.png"><img src="/uploads/en/Manual/Manual%20html%20m772c5b23.png" alt="/File/en/Manual/Manual html m772c5b23.png" /></a> в <a href="/ru/Manual/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%20%D0%B8%D0%B3%D1%80%D1%8B#panel-upravleniia" title="ru/Manual/Интерфейс игры#panel-upravleniia">основном меню</a>:<br /><div class="thumb tnone"><div class="thumbinner"><a href="/File/en/Manual/Railroad%20Construction.png" class="image"><img src="/uploads/en/Manual/Railroad%20Construction.png" class="thumbimage" /></a>  <div class="thumbcaption">Панель инструментов Строительство железных дорог</div></div></div>
+</li><li>
+Нажмите кнопку <b>Установка сигналов</b> <a href="/File/en/Manual/Place%20signal.png" class="image" title="/File/en/Manual/Place signal.png"><img src="/uploads/en/Manual/Place%20signal.png" alt="/File/en/Manual/Place signal.png" /></a>. Откроется панель инструментов Выбор сигналов:<br /><div class="thumb tnone"><div class="thumbinner"><a href="/File/en/Manual/Signal%20Selection.png" class="image"><img src="/uploads/en/Manual/Signal%20Selection.png" class="thumbimage" /></a>  <div class="thumbcaption">Панель инструментов Выбор сигналов</div></div></div>Эта панель является достаточно простой в навигации. В верхней строке размещены семафорные сигналы, а в нижней строке &mdash; световые сигналы.<br /> Каждый тип сигнала функционально идентичен тому что над/под ним, так что выбирайте из них тот сигнал, который, как вы считаете, придаст лучший вид вашей железной дороге.<br /> Слева направо на этой панели: блок-сигнал, въездной пре-сигнал, выездной пре-сигнал, комбинированный пре-сигнал, маршрутный сигнал разрешающий и маршрутный сигнал запрещающий.<br /> Если вы не уверены, который из них использовать, или вы хотите узнать больше о предназначении любого из сигналов, вы всегда можете <b>зажать правую кнопку мыши на кнопке</b> из панели инструментов Выбор сигналов,<br /> после чего всплывет подсказка с поясняющей информацией.
+</li><li>
+Как только вы выбрали тип сигнала &mdash; <b>разместите курсор над железнодорожными путями</b>, где вы хотите разместить сигнал.<br /><div class="thumb tnone"><div class="thumbinner"><a href="/File/en/Manual/SignalTutorial2.png" class="image"><img src="/uploads/en/Manual/SignalTutorial2.png" class="thumbimage" /></a></div></div>
+</li><li>
+<b>Кликните единожды</b>, чтобы разместить сигнал на пути. По умолчанию он будет <b>двусторонним</b>, кроме случая, когда вы выбрали <i>маршрутный сигнал</i> (этот сигнал работает только в одном направлении).<br /><div class="thumb tleft"><div class="thumbinner"><a href="/File/en/Manual/Two-way%20signal.png" class="image"><img src="/uploads/en/Manual/Two-way%20signal.png" class="thumbimage" /></a></div></div><div class="thumb tnone"><div class="thumbinner"><a href="/File/en/Manual/SignalTutorial3.png" class="image"><img src="/uploads/en/Manual/SignalTutorial3.png" class="thumbimage" /></a></div></div>
+</li><li>
+<b>Кликните повторно</b>, чтобы превратить ваш сигнал в <b>односторонний</b>. Все изменения направления сигнала бесплатны.<br /> Если вы разместили <i>маршрутный</i> сигнал &mdash; только поезда, следующие из направления, к которому сигнал размещен лицом, будут иметь возможность его пройти. <br /><div class="thumb tleft"><div class="thumbinner"><a href="/File/en/Manual/One-way%20signal.png" class="image"><img src="/uploads/en/Manual/One-way%20signal.png" class="thumbimage" /></a></div></div><div class="thumb tnone"><div class="thumbinner"><a href="/File/en/Manual/SignalTutorial4.png" class="image"><img src="/uploads/en/Manual/SignalTutorial4.png" class="thumbimage" /></a></div></div>
+</li><li>
+<b>Кликните повторно</b>, чтобы поменять направление сигнала на противоположное.<br /><div class="thumb tnone"><div class="thumbinner"><a href="/File/en/Manual/SignalTutorial5.png" class="image"><img src="/uploads/en/Manual/SignalTutorial5.png" class="thumbimage" /></a></div></div>
+</li><li>
+<b>Кликните повторно</b>, чтобы превратить сигнал обратно в <b>двусторонний</b>.<br /><div class="thumb tnone"><div class="thumbinner"><a href="/File/en/Manual/SignalTutorial5b.png" class="image"><img src="/uploads/en/Manual/SignalTutorial5b.png" class="thumbimage" /></a></div></div>
+</li></ol><h2><a class="anchor" href="#razmeshchenie-podriad-neskolkikh-signalov"></a><span class="mw-headline" id="razmeshchenie-podriad-neskolkikh-signalov">Размещение подряд нескольких сигналов.</span></h2><p>
+Вы можете разместить несколько сигналов одного вида за раз, перемещая курсор при зажатой кнопке мыши вдоль тех частей путей, на которых они вам нужны. Однако удобнее размещать сигналы, начиная тянуть линию с уже имеющегося, в этом случае все установленные таким образом сигналы будут направлены в ту же сторону, что и он:
+</p><ol><li>
+Выберите устраивающий вас тип сигнала на панели <b>Выбор сигналов</b> <a href="/File/en/Manual/Place%20signal.png" class="image" title="/File/en/Manual/Place signal.png"><img src="/uploads/en/Manual/Place%20signal.png" alt="/File/en/Manual/Place signal.png" /></a> и <b>разместите курсор над каким-нибудь уже установленным</b>.<br /><div class="thumb tnone"><div class="thumbinner"><a href="/File/en/Manual/SignalTutorial4.png" class="image"><img src="/uploads/en/Manual/SignalTutorial4.png" class="thumbimage" /></a></div></div>
+</li><li>
+<b>С зажатой кнопкой мыши перетащите</b> курсор вдоль путей, как показано на картинке .<br /><div class="thumb tnone"><div class="thumbinner"><a href="/File/en/Manual/SignalTutorial20.png" class="image"><img src="/uploads/en/Manual/SignalTutorial20.png" class="thumbimage" /></a></div></div>
+</li><li>
+<b>Отпустите кнопку</b>, чтобы проставить сигналы.<br /><div class="thumb tnone"><div class="thumbinner"><a href="/File/en/Manual/SignalTutorial21.png" class="image"><img src="/uploads/en/Manual/SignalTutorial21.png" class="thumbimage" /></a></div></div>
+</li></ol><p>В зависимости от числа отображаемого в окошке кнопки <b>Плотность расстановки сигналов</b>, <a href="/File/en/Manual/Signal%20Density.png" class="image" title="/File/en/Manual/Signal Density.png"><img src="/uploads/en/Manual/Signal%20Density.png" alt="/File/en/Manual/Signal Density.png" /></a> расположенной на панели выбора сигналов, они будут расставляться каждые N клеток (по умолчанию N равно 4) протянутой линии.
+
+</p><p>Вы можете изменить частоту расстановки сигналов, нажимая на стрелочки под цифрой. Этот метод так же работает и с входящими, выходящими и комбинированными сигналами.
+
+</p><h2><a class="anchor" href="#smena-tipa-signala"></a><span class="mw-headline" id="smena-tipa-signala">Смена типа сигнала</span></h2><p>
+Тип сигнала можно сменить, нажав кнопку <b>Смена типа сигнала</b> <a href="/File/en/Manual/Signal%20Convert.png" class="image" title="/File/en/Manual/Signal Convert.png"><img src="/uploads/en/Manual/Signal%20Convert.png" alt="/File/en/Manual/Signal Convert.png" /></a> на панели выбора сигналов. Теперь, если вы кликните на имеющийся сигнал, он будет бесплатно заменён на сигнал выбранного типа.
+
+</p><p>Чтобы выйти из режима замены (если вы хотите вернуться к их расстановке), снова кликните на эту кнопку.
+
+</p><p>Также заменить сигнал можно, кликнув на него при зажатой клавише <b>CTRL</b>. В этом случае сигналы будут перебираться по порядку.
+
+</p><h2><a class="anchor" href="#udalenie-signalov"></a><span class="mw-headline" id="udalenie-signalov">Удаление сигналов</span></h2><p>
+Вы можете удалить имеющиеся сигналы, нажав кнопку <b>Удаление</b> <a href="/File/en/Manual/Toggle%20clear%20active.png" class="image" title="Clear button"><img src="/uploads/en/Manual/Toggle%20clear%20active.png" alt="Clear button" /></a> на панели строительства железных дорог, при открытой панели выбора сигналов.
+
+</p><p>Белый квадратик сменит цвет на красный. Теперь вы можете удалять как отдельные сигналы, кликая на них, так и помногу сразу перемещая курсор при зажатой кнопке мыши. Нажмите на кнопку ещё раз, чтобы перейти в нормальный режим. Хоткей - кнопка <b>R</b>.
+
+</p><p>Этот инструмент также зависит от числа, выбранного на кнопке <b>Плотность расстановки сигналов</b> <a href="/File/en/Manual/Signal%20Density.png" class="image" title="/File/en/Manual/Signal Density.png"><img src="/uploads/en/Manual/Signal%20Density.png" alt="/File/en/Manual/Signal Density.png" /></a> на панели выбора сигналов.
+
+</p><span style="float: right"><a href="/ru/Manual/%D0%9F%D0%BE%D0%BA%D1%83%D0%BF%D0%BA%D0%B0%20%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B0%20%D0%BF%D0%BE%D0%B5%D0%B7%D0%B4%D0%BE%D0%B2" title="ru/Manual/Покупка и продажа поездов"><b>Далее:</b> Покупка и продажа поездов</a> &raquo;</span>
+            <div id="content-footer">
+                <div id="categories"><div>Categories:</div><ul><li><a href="/Category/ru/Manual/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA" title="Category/ru/Manual/Учебник">Учебник</a></li></ul></div><div id="folder">Folder: <a href="/Folder/Page/ru/Manual/" title="Folder/Page/ru/Manual/Main Page">Manual</a></div>
+            </div>
+
+            
+        </main>
+        <footer>
+            <div id="content-bottom-links">
+                <a href="https://www.openttd.org/policy.html">Privacy Policy</a> |
+<a href="https://www.openttd.org/contact.html">Contact</a> |
+
+                <a href="https://github.com/TrueBrain/TrueWiki">Powered by TrueWiki</a>
+            </div>
+            <div id="content-bottom-copyright">
+                Content is available under <a href="/License">GNU Free Documentation License</a>
+            </div>
+        </footer>
+    </body>
+</html>

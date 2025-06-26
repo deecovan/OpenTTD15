@@ -1,0 +1,234 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset="utf-8" />
+        
+        <link rel="icon" href="/static/favicon.ico" type="image/icon" />
+        
+        <link rel="stylesheet" href="/static/truewiki/truewiki.css" type="text/css" />
+<link rel="stylesheet" href="/static/css/openttd.css" type="text/css" />
+        <title>OpenTTD | Расширенные системы маршрутных сигналов</title>
+    </head>
+    <body>
+        <header>
+            <div id="pagename">
+                Расширенные системы маршрутных сигналов
+            </div>
+            <div id="openttd-logo">
+    <div id="openttd-logo-text"><a href="/en/"><img src="/static/img/layout/openttd-logo.png" alt="OpenTTD" /></a></div>
+</div>
+
+            
+        </header>
+        <nav>
+            <ul id="navigation-bar">
+                <li class="crumb"><a href="/ru/">OpenTTD&#x27;s Wiki</a></li>
+<li class="crumb"><a href="/ru/Community/">Community</a></li>
+<li class="crumb"><a href="/ru/Community/Junctionary/">Junctionary</a></li>
+<li class="crumb selected"><a href="/ru/Community/Junctionary/%D0%A0%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%BD%D1%8B%D1%85%20%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%BE%D0%B2">Расширенные системы маршрутных сигналов</a></li>
+            </ul>
+            <ul id="navigation-bar" class="right">
+                
+                <li>
+                    
+                    
+                        <a href="/ru/Community/Junctionary/%D0%A0%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%BD%D1%8B%D1%85%20%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%BE%D0%B2.mediawiki">
+                        View Source
+                        
+                        </a>
+                    
+                    
+                </li>
+                
+                
+                
+                <li>
+                    <a href="https://github.com/OpenTTD/wiki-data/commits/main/Page/ru/Community/Junctionary/%D0%A0%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%BD%D1%8B%D1%85%20%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%BE%D0%B2.mediawiki">View History</a>
+                </li>
+                
+                
+                <li>
+                    <a href="/user/login?location=ru/Community/Junctionary/%D0%A0%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%BD%D1%8B%D1%85%20%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%BE%D0%B2">Login</a>
+                </li>
+                
+            </ul>
+        </nav>
+        
+        <div id="search">
+            <form action="/search" target="_new">
+                
+                <input type="hidden" name="language" value="ru" />
+                
+                <input type="text" autocomplete="off" name="query" value="" placeholder="Search wiki" />
+                <div id="search-submit">
+                    <input type="submit" value="" />
+                    <div></div>
+                </div>
+            </form>
+        </div>
+        
+        <main>
+            <div id="language-bar">
+                <ul>
+                    <li>
+    <a href="/en/Community/Junctionary/Advanced%20path%20signal%20layouts"><img src="/uploads/en/Flag.png"></a>
+    <a href="/en/Community/Junctionary/Advanced%20path%20signal%20layouts" title="en/Community/Junctionary/Advanced path signal layouts">en</a>
+</li><li>
+    <a href="/fr/Community/Junctionary/Signalisation%20du%20r%C3%A9seau%20ferroviaire/agencements%20complexes"><img src="/uploads/fr/Flag.png"></a>
+    <a href="/fr/Community/Junctionary/Signalisation%20du%20r%C3%A9seau%20ferroviaire/agencements%20complexes" title="fr/Community/Junctionary/Signalisation du réseau ferroviaire/agencements complexes">fr</a>
+</li><li>
+    <a href="/nl/Community/Junctionary/Geavanceerde%20routeseinlayouts"><img src="/uploads/nl/Flag.png"></a>
+    <a href="/nl/Community/Junctionary/Geavanceerde%20routeseinlayouts" title="nl/Community/Junctionary/Geavanceerde routeseinlayouts">nl</a>
+</li><li>
+    <a href="/ru/Community/Junctionary/%D0%A0%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%BD%D1%8B%D1%85%20%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%BE%D0%B2"><img src="/uploads/ru/Flag.png"></a>
+    <strong class="selflink">ru</strong>
+</li>
+                </ul>
+            </div>
+            <div style="margin: 0px 10% 0px 10%; border: 1px solid #aaa; border-left: 10px solid #f4c430; padding: 4px 8px; background:#efefef; min-height: 44px;"><div style="position: absolute;"><a href="/File/en/Translation.png" class="image" title="/File/en/Translation.png"><img src="/uploads/en/Translation.png" width="40" alt="/File/en/Translation.png" /></a></div><div style="border: none; padding: 2px 2px 2px 62px;">
+<span>  <strong>Эта статья переводится с английского языка на русский: <a href="/en/Community/Junctionary/Advanced%20path%20signal%20layouts" title="en/Community/Junctionary/Advanced path signal layouts">en/Community/Junctionary/Advanced path signal layouts</a>.</strong>
+<div style="font-size: 90%"><div style="margin:auto; text-align:Left;">Процент: 0%
+<div style="width:200px; text-align:Left; border:1px solid #aaa; padding:1px; overflow:hidden;"><span style="width:0%; height:2px; background:#7fff00; float:left;">&nbsp;</span><span style="width:100%; height:2px; background:#ff7f50; float:left;">&nbsp;</span></div></div>
+Пожалуйста, помогите улучшить перевод.
+</div><div style="font-size: 80%"><ul><li>
+Используйте <a href="/en/Wiki/Manual%20of%20Style" title="en/Wiki/Manual of Style">руководство по стилю</a> для правильного изложения перевода.
+</li><li>
+Помните, что необходимо удалить данный шаблон, когда статья будет полностью переведена.
+</li></ul></div>
+ </span>
+</div></div><p>
+Эта статья displays some advanced <a href="/en/Archive/Manual/Yet%20Another%20PBS%20Patch" title="en/Archive/Manual/Yet Another PBS Patch">YAPP</a> track layouts. Please note that several of these track layouts are controversial. See the discussion page for more information.
+
+</p><table id="toc">
+<tbody>
+<tr><td>
+<div id="toctitle"><h2>Contents</h2></div><ul>
+<li class="toclevel-1">
+<a href="#razviazki-putevykh-uzlov">
+<span class="tocnumber">1</span>
+<span class="toctext">Развязки путевых узлов</span>
+</a>
+<ul>
+<li class="toclevel-2">
+<a href="#usovershenstvovannaia-razviazka-s-krossoverom">
+<span class="tocnumber">1.1</span>
+<span class="toctext">Усовершенствованная развязка с кроссовером</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="toclevel-1">
+<a href="#konfiguratsii-putei">
+<span class="tocnumber">2</span>
+<span class="toctext">Конфигурации путей</span>
+</a>
+<ul>
+<li class="toclevel-2">
+<a href="#prioritetnaia-odnoputnaia-komponovka">
+<span class="tocnumber">2.1</span>
+<span class="toctext">Приоритетная однопутная компоновка</span>
+</a>
+</li>
+<li class="toclevel-2">
+<a href="#bazovaia-dvustoronniaia-dvukhputnaia-komponovka">
+<span class="tocnumber">2.2</span>
+<span class="toctext">Базовая двусторонняя двухпутная компоновка</span>
+</a>
+</li>
+<li class="toclevel-2">
+<a href="#dvustoronniaia-trekhkoleinaia-komponovka">
+<span class="tocnumber">2.3</span>
+<span class="toctext">Двусторонняя трехколейная компоновка</span>
+</a>
+</li>
+<li class="toclevel-2">
+<a href="#prioritetnaia-dvustoronniaia-trekhputnaia-komponovka">
+<span class="tocnumber">2.4</span>
+<span class="toctext">Приоритетная двусторонняя трехпутная компоновка</span>
+</a>
+</li>
+<li class="toclevel-2">
+<a href="#dvukhstoronniaia-chetyrekhputnaia-komponovka-gusenits">
+<span class="tocnumber">2.5</span>
+<span class="toctext">Двухсторонняя четырехпутная компоновка гусениц</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="toclevel-1">
+<a href="#makety-stantsii">
+<span class="tocnumber">3</span>
+<span class="toctext">Макеты станций</span>
+</a>
+<ul>
+<li class="toclevel-2">
+<a href="#usovershenstvovannaia-dvustoronniaia-stantsiia">
+<span class="tocnumber">3.1</span>
+<span class="toctext">Усовершенствованная двусторонняя станция</span>
+</a>
+</li>
+<li class="toclevel-2">
+<a href="#zheleznodorozhnyi-vokzal-bolshoi-propusknoi-sposobnosti">
+<span class="tocnumber">3.2</span>
+<span class="toctext">Железнодорожный вокзал большой пропускной способности</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</td></tr>
+</tbody>
+</table><h2><a class="anchor" href="#razviazki-putevykh-uzlov"></a><span class="mw-headline" id="razviazki-putevykh-uzlov">Развязки путевых узлов</span></h2><h4><a class="anchor" href="#usovershenstvovannaia-razviazka-s-krossoverom"></a><span class="mw-headline" id="usovershenstvovannaia-razviazka-s-krossoverom">Усовершенствованная развязка с кроссовером</span></h4><p>
+Пересечение увеличивает вероятность того, что поезд найдет путь, даже если перекресток занят поездом с противоположного направления.
+</p><div class="center"><div class="thumb tnone"><div class="thumbinner"><a href="/File/en/Community/Junctionary/Yapp%20advancedjunction.png" class="image"><img src="/uploads/en/Community/Junctionary/Yapp%20advancedjunction.png" class="thumbimage" /></a>  <div class="thumbcaption"><p>Просто попробуйте это сами!</p></div></div></div></div><h2><a class="anchor" href="#konfiguratsii-putei"></a><span class="mw-headline" id="konfiguratsii-putei">Конфигурации путей</span></h2><h4><a class="anchor" href="#prioritetnaia-odnoputnaia-komponovka"></a><span class="mw-headline" id="prioritetnaia-odnoputnaia-komponovka">Приоритетная однопутная компоновка</span></h4><p>
+<a href="/en/Archive/Manual/Yet%20Another%20PBS%20Patch#basic-single-track" title="en/Archive/Manual/Yet Another PBS Patch#basic-single-track">Базовая однопутная</a> компоновка может быть улучшена, чтобы расставить приоритеты между поездами, идущими в том же направлении, что и предыдущий поезд, и поездами, идущими в другом направлении. Это реализуется путем размещения двух двухсторонних сигналов пути лицом друг к другу на двух плитках. Это повышает пропускную способность участка с одной линией, но потенциально может привести к длительному ожиданию одного направления движения.
+</p><div class="center"><div class="thumb tnone"><div class="thumbinner"><a href="/File/en/Community/Junctionary/Yapp%20adv%20single%20track.png" class="image"><img src="/uploads/en/Community/Junctionary/Yapp%20adv%20single%20track.png" class="thumbimage" /></a>  <div class="thumbcaption"><p>Приоритетный однопутный путь с поездами.</p></div></div></div></div><h4><a class="anchor" href="#bazovaia-dvustoronniaia-dvukhputnaia-komponovka"></a><span class="mw-headline" id="bazovaia-dvustoronniaia-dvukhputnaia-komponovka">Базовая двусторонняя двухпутная компоновка</span></h4><p>
+Чрезвычайно полезно, если вам нравится часто менять компоновку путей. Если вы уберете кусок пути с одной стороны, поезда все равно смогут использовать другую сторону без необходимости сначала уходить в 'to resignal first'. Такая компоновка не очень эффективна, так как поезда, как правило, переходят на другую сторону, часто блокируя перекрестки.
+</p><div class="center"><div class="thumb tnone"><div class="thumbinner"><a href="/File/en/Community/Junctionary/Yapp%20dualtrack.png" class="image"><img src="/uploads/en/Community/Junctionary/Yapp%20dualtrack.png" class="thumbimage" /></a>  <div class="thumbcaption"><p>Двойные двусторонние пути. Все сигналы являются безопасными местами ожидания.</p></div></div></div></div><h4><a class="anchor" href="#dvustoronniaia-trekhkoleinaia-komponovka"></a><span class="mw-headline" id="dvustoronniaia-trekhkoleinaia-komponovka">Двусторонняя трехколейная компоновка</span></h4><p>
+Если ваши пути переживают 'час пик', этот макет может быть полезен. Для каждого направления есть специальная линяя и дополнительная, которую можно использовать в обоих направлениях.
+</p><div class="center"><div class="thumb tnone"><div class="thumbinner"><a href="/File/en/Community/Junctionary/Pbs%203track.png" class="image"><img src="/uploads/en/Community/Junctionary/Pbs%203track.png" class="thumbimage" /></a>  <div class="thumbcaption"><p>Тройная двусторонняя компоновка.</p></div></div></div></div><h4><a class="anchor" href="#prioritetnaia-dvustoronniaia-trekhputnaia-komponovka"></a><span class="mw-headline" id="prioritetnaia-dvustoronniaia-trekhputnaia-komponovka">Приоритетная двусторонняя трехпутная компоновка</span></h4><p>
+Двусторонняя трехпутная компоновка может быть изменена с использованием идей приоритетной однопутной компоновки. Это особенно полезно, если количество поездов, идущих в каждом направлении, заметно отличается и меняется с течением времени. Две внешние линии предназначены для каждого направления. Средняя колея может использоваться в обоих направлениях, но поезда, идущие в одном направлении, имеют приоритет перед поездами, идущими в другом направлении.
+</p><div class="center"><div class="thumb tnone"><div class="thumbinner"><a href="/File/en/Community/Junctionary/Yapp%20triple%20track.png" class="image"><img src="/uploads/en/Community/Junctionary/Yapp%20triple%20track.png" class="thumbimage" /></a>  <div class="thumbcaption"><p>Приоритетная двусторонняя трехколейная компоновка. Сигнальные расстояния должны быть растянуты до длины поезда.</p></div></div></div></div><h4><a class="anchor" href="#dvukhstoronniaia-chetyrekhputnaia-komponovka-gusenits"></a><span class="mw-headline" id="dvukhstoronniaia-chetyrekhputnaia-komponovka-gusenits">Двухсторонняя четырехпутная компоновка гусениц</span></h4><p>
+Больше движения, больше дорожек. Представьте себе пятиколейную компоновку...
+</p><div class="center"><div class="thumb tnone"><div class="thumbinner"><a href="/File/en/Community/Junctionary/Yapp%20quadtrack.png" class="image"><img src="/uploads/en/Community/Junctionary/Yapp%20quadtrack.png" class="thumbimage" /></a>  <div class="thumbcaption"><p>Четырехполосная двухсторонняя компоновка.</p></div></div></div></div><h2><a class="anchor" href="#makety-stantsii"></a><span class="mw-headline" id="makety-stantsii">Макеты станций</span></h2><h4><a class="anchor" href="#usovershenstvovannaia-dvustoronniaia-stantsiia"></a><span class="mw-headline" id="usovershenstvovannaia-dvustoronniaia-stantsiia">Усовершенствованная двусторонняя станция</span></h4><p>
+На интенсивно используемых станциях с двусторонним движением иногда может возникнуть тупик. Использование односторонних сигналов PBS выделяет платформу одному определенному направлению, что снижает вероятность тупика. (В большинстве случаев тупик возникает, когда все платформы заняты поездами, желающими двигаться в одном направлении, но выход забит)
+</p><div class="center"><div class="thumb tnone"><div class="thumbinner"><a href="/File/en/Community/Junctionary/Yapp%20advancedstation.png" class="image"><img src="/uploads/en/Community/Junctionary/Yapp%20advancedstation.png" class="thumbimage" /></a>  <div class="thumbcaption"><p>Обратите внимание на использование односторонних сигналов.</p></div></div></div></div><h4><a class="anchor" href="#zheleznodorozhnyi-vokzal-bolshoi-propusknoi-sposobnosti"></a><span class="mw-headline" id="zheleznodorozhnyi-vokzal-bolshoi-propusknoi-sposobnosti">Железнодорожный вокзал большой пропускной способности</span></h4><p>
+<a href="/en/Manual/Railway%20station#ro-ro" title="en/Manual/Railway station#ro-ro">RoRo station</a> Это пример компактной и высокопроизводительной конструкции. Наибольшее внимание было уделено входным путям. Их не только легко построить, но и сохранить эффективность. Если многие платформы свободны, поезда будут продолжать заполнять их без каких-либо серьезных остановок.
+
+</p><p>Вы также заметите, что станция разделена на две стороны. Транспортные средства, которые приходят со стороны А, будут пытаться занять платформы стороны А. То же самое относится и к стороне B. Когда транспортная нагрузка снижается или заполняется много платформ, поезда также занимают соседние стороны, если это лучше/быстрее. ПРИМЕЧАНИЕ: это стоит того, чтобы построить <a class="external" href="http://wiki.openttdcoop.org/Balancing" target="_new">балансировщик нагрузки</a> после этой станции у поездов нет выбора между двумя выходящими путями.
+</p><div class="center"><div class="thumb tnone"><div class="thumbinner"><a href="/File/en/Community/Junctionary/Roro%20pbs4.png" class="image"><img src="/uploads/en/Community/Junctionary/Roro%20pbs4.png" class="thumbimage" /></a>  <div class="thumbcaption"><p>Станция RoRo большой емкости</p></div></div></div></div><div style="width: 400px; border: 1px solid darkgray; cellpadding: 0px; text-align: center; margin-right:auto; margin-left:auto; float: ;">
+<span style="font-size:80%; line-height: 0.8;"><b>Feature availability</b> <span style="color:green"></span></span><br />
+<div style="display:inline-block;">
+<span style="float: left; font-size:80%; width:60px; text-align: center">&lt;1.0</span><br />
+<span style="font-size:200%;"> <span style="color:green">&#9745;</span> </span></div><div style="display:inline-block;">
+<span style="float: left; font-size:80%; width:60px; text-align: center">1.0-1.2</span><br />
+<span style="font-size:200%;"> <span style="color:green">&#9745;</span> </span></div><div style="display:inline-block;">
+<span style="float: left; font-size:80%; width:60px; text-align: center">1.3</span><br />
+<span style="font-size:200%;"> <span style="color:green">&#9745;</span> </span></div><div style="display:inline-block;">
+<span style="float: left; font-size:80%; width:60px; text-align: center">1.4</span><br />
+<span style="font-size:200%;"> <span style="color:green">&#9745;</span> </span></div><div style="display:inline-block;"><span style="float: left; font-size:80%; width:60px; text-align: center">1.5-12.0</span><br />
+<span style="font-size:200%;"> <span style="color:green">&#9745;</span> </span></div><div style="display:inline-block;"><span style="float: left; font-size:80%; width:60px; text-align: center">Nightly</span><br />
+<span style="font-size:200%;"> <span style="color:green">&#9745;</span> </span></div></div>
+            <div id="content-footer">
+                <div id="categories"><div>Categories:</div><ul><li><a href="/Category/ru/Manual/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B5%20%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B8" title="Category/ru/Manual/Железные дороги">Железные дороги</a></li>
+<li><a href="/Category/ru/Manual/%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE" title="Category/ru/Manual/Строительство">Строительство</a></li>
+<li><a href="/Category/ru/%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%BE%20%D0%BC%D0%B5%D0%BD%D0%B5%D0%B5%2010%20%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D0%BD%D1%82%D0%BE%D0%B2" title="Category/ru/Переведено менее 10 процентов">Переведено менее 10 процентов</a></li>
+<li><a href="/Category/ru/%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5%20%D0%B2%20%D0%BD%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B5%D0%B5%20%D0%B2%D1%80%D0%B5%D0%BC%D1%8F%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%8F%D1%82%D1%81%D1%8F%20%D0%BD%D0%B0%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D1%8F%D0%B7%D1%8B%D0%BA" title="Category/ru/Статьи, которые в настоящее время переводятся на русский язык">Статьи, которые в настоящее время переводятся на русский язык</a></li></ul></div><div id="folder">Folder: <a href="/Folder/Page/ru/Community/Junctionary/" title="Folder/Page/ru/Community/Junctionary/Main Page">Junctionary</a></div>
+            </div>
+
+            
+        </main>
+        <footer>
+            <div id="content-bottom-links">
+                <a href="https://www.openttd.org/policy.html">Privacy Policy</a> |
+<a href="https://www.openttd.org/contact.html">Contact</a> |
+
+                <a href="https://github.com/TrueBrain/TrueWiki">Powered by TrueWiki</a>
+            </div>
+            <div id="content-bottom-copyright">
+                Content is available under <a href="/License">GNU Free Documentation License</a>
+            </div>
+        </footer>
+    </body>
+</html>
