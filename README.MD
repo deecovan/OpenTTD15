@@ -1,8 +1,9 @@
-# OpenTTD GitHub repo 
+# OpenTTD15 GitHub repo 
 
 ## 06.26 0950 OpenTTD15 repo
 - Leave old repo 
-- Init new
+- Init new 1800s 512x Balanced Villages 
+- 1813s Refactor rails
 
 ## 06.26 Try other script
 - Try to start Balanced Villages with unlim
@@ -17,4 +18,3 @@
 - Start 1800s TimberWolf Village
   - Focus on Steel
   - ???Why this Village grows 20k people and -2bill???
-# OpenTTD15 GitHub repo 
