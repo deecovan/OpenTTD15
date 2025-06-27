@@ -1,5 +1,8 @@
 # OpenTTD15 GitHub repo 
 
+## 06.28
+- !!!Remember Minimal map 512x512 (industries minimum placed)
+
 ## 06.26 0950 OpenTTD15 repo
 - Leave old repo 
 - Init new 1800s 512x Balanced Villages 
