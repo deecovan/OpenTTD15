@@ -2,6 +2,7 @@
 
 ## 06.29 1815 Island
 - Try to start Island 128x with Medium density with Finances
+- Nice! Next: Continue Coal to Steel fact
 
 ## 06.28
 - !!!Remember Minimal map 512x512 (industries minimum placed)
