@@ -1,5 +1,8 @@
 # OpenTTD15 GitHub repo 
 
+## 06.29 1815 Island
+- Try to start Island 128x with Medium density with Finances
+
 ## 06.28
 - !!!Remember Minimal map 512x512 (industries minimum placed)
 
