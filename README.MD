@@ -3,7 +3,7 @@
 ## 25-07-15
 - New scenario 16 Islands
 - Playtest 7 years
-- Saves can be copied to .scn!
+- Saves can NOT be copied to .scn!!!
 
 ## 06.29 1815 Island
 - Try to start Island 128x with Medium density with Finances
