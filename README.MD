@@ -1,5 +1,12 @@
 # OpenTTD15 GitHub repo 
 
+## 25-07-16
+- New proto 4 islands
+  - 20 villages 5 cities
+  - 3 large farms
+  - 4 bridges
+  - 2 large cities ready to build ports
+
 ## 25-07-15
 - New scenario 16 Islands
 - Playtest 7 years
