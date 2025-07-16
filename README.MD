@@ -3,6 +3,8 @@
 ## 25-07-16
 - All chains are complete
 - Start test 4-islands-010
+  - @FIX unclosed roads in the towns
+    - Fix Wrondworth v011
 
 ## 25-07-16
 - Tag 4-islands-proto
