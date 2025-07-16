@@ -1,6 +1,10 @@
 # OpenTTD15 GitHub repo 
 
 ## 25-07-16
+- All chains are complete
+- Start test 4-islands-010
+
+## 25-07-16
 - Tag 4-islands-proto
 - New proto 4 islands
   - 20 villages 5 cities
