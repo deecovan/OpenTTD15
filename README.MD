@@ -1,5 +1,11 @@
 # OpenTTD15 GitHub repo 
 
+## 25-07-18
+- 4 islands testing:
+  - 1822-01-06 horses, ships and railways 
+  - post and pass, clay 
+  - +200kpy
+
 ## 25-07-16
 - All chains are complete
 - Start test 4-islands-010
