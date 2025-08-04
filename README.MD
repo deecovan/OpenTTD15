@@ -1,12 +1,14 @@
 # OpenTTD15 GitHub repo 
 
-## 25-07-18
+## 25-07-31 New scenario Island Kreem 1809
+
+## 25-07-18 4 islands testing
 - 4 islands testing:
   - 1822-01-06 horses, ships and railways 
   - post and pass, clay 
   - +200kpy
 
-## 25-07-16
+## 25-07-16 4 islands testing
 - All chains are complete
 - Start test 4-islands-010
   - @FIX unclosed roads in the towns
@@ -14,7 +16,7 @@
   - @FIX delete Slenfield iron mine
     - Fixed in v012
 
-## 25-07-16
+## 25-07-16 New scenario 4 islands
 - Tag 4-islands-proto
 - New proto 4 islands
   - 20 villages 5 cities
@@ -22,7 +24,7 @@
   - 4 bridges
   - 2 large cities ready to build ports
 
-## 25-07-15
+## 25-07-15 New scenario 16 Islands
 - New scenario 16 Islands
 - Playtest 7 years
 - Saves can NOT be copied to .scn!!!
