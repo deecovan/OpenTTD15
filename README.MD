@@ -1,6 +1,12 @@
 # OpenTTD15 GitHub repo 
 
+## 25-08-05 New scenario Plain 
+- Sizes 256x256x1
+- Start at 1840
+- To test transport evolution
+
 ## 25-07-31 New scenario Island Kreem 1809
+- Saved 1809-1810-Island-Kreem
 
 ## 25-07-18 4 islands testing
 - 4 islands testing:
