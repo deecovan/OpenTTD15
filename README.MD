@@ -1,7 +1,7 @@
 # OpenTTD15 GitHub repo 
 
-## 25-08-05 New scenario Plain 
-- Sizes 256x256x1
+## 25-08-05 New scenario Plain256x128x2
+- Sizes 256x128x2
 - Start at 1840
 - To test transport evolution
 
