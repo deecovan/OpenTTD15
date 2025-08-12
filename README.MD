@@ -1,6 +1,12 @@
 # OpenTTD15 GitHub repo 
 
 ## 25-08-05 New scenario Plain256x128x2
+- 25-08-12 Plains new start
+- 2 sides to compare transport schemes
+- Need Coal in NE 
+- maybe need Beach Industry and Villages 
+
+## 25-08-05 New scenario Plain256x128x2
 - Sizes 256x128x2
 - Start at 1840
 - To test transport evolution
