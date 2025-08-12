@@ -5,7 +5,8 @@
 - 2 sides to compare transport schemes
 - Need Coal in NE 
 - maybe need Beach Industry and Villages
-- maybe 512x512 with one wide circle 
+- maybe 256x256 with one wide circle
+- maybe 256x256 with 4 islands 
 
 ## 25-07-31 New scenario Island Kreem 1809
 - Saved 1809-1810-Island-Kreem
