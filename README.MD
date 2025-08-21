@@ -1,16 +1,18 @@
 # OpenTTD15 GitHub repo 
 
-## 25-08-05 New scenario Plain256x128x2
+## Yetis, 1903 First Yetis
+- See [backlog](./YETIS.MD)
+
+## 25-08-05 New scenario Plains256x128x2
 - 25-08-12 Plains new start
 - 2 sides to compare transport schemes
 - Need Coal in NE 
 - maybe need Beach Industry and Villages
 - maybe 512x512 with one wide circle 
-
-## 25-08-05 New scenario Plain256x128x2
-- Sizes 256x128x2
-- Start at 1840
-- To test transport evolution
+* Start at 1840
+* To test transport evolution
+* maybe 256x256 with one wide circle
+* maybe 256x256 with 4 islands 
 
 ## 25-07-31 New scenario Island Kreem 1809
 - Saved 1809-1810-Island-Kreem

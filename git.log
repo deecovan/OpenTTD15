@@ -1,0 +1,148 @@
+On branch initial
+Your branch is up to date with 'origin/initial'.
+
+All conflicts fixed but you are still merging.
+  (use "git commit" to conclude merge)
+
+Changes to be committed:
+	renamed:    1700s/1700s_1800s Early Start & Extended Play NewGRF Combo.pdf -> OpenTTD/Docs/1700s_1800s Early Start & Extended Play NewGRF Combo.pdf
+	renamed:    OpenTTD/v15/1860/2025-06-24 00_44_40-Window.jpg -> OpenTTD/v15/_schemes_/1860/2025-06-24 00_44_40-Window.jpg
+	renamed:    OpenTTD/v15/1860/2025-06-24 00_45_04-Window.jpg -> OpenTTD/v15/_schemes_/1860/2025-06-24 00_45_04-Window.jpg
+	renamed:    OpenTTD/v15/1860/2025-06-24 00_45_54-Window.jpg -> OpenTTD/v15/_schemes_/1860/2025-06-24 00_45_54-Window.jpg
+	renamed:    screenshot/_schemes_/18xx-Covan-Milk/2025-06-24 01_01_28-Window.jpg -> OpenTTD/v15/_schemes_/18xx-Covan-Milk/2025-06-24 01_01_28-Window.jpg
+	renamed:    screenshot/_schemes_/18xx-Covan-Milk/Covan, 1805-06-08.png -> OpenTTD/v15/_schemes_/18xx-Covan-Milk/Covan, 1805-06-08.png
+	renamed:    screenshot/_schemes_/18xx-Covan-Milk/Covan, 1806-04-21.png -> OpenTTD/v15/_schemes_/18xx-Covan-Milk/Covan, 1806-04-21.png
+	renamed:    screenshot/_schemes_/18xx-Covan-Milk/Covan, 1806-05-10.png -> OpenTTD/v15/_schemes_/18xx-Covan-Milk/Covan, 1806-05-10.png
+	renamed:    screenshot/_schemes_/18xx-Covan-Milk/Covan, 1806-12-08.png -> OpenTTD/v15/_schemes_/18xx-Covan-Milk/Covan, 1806-12-08.png
+	renamed:    screenshot/_schemes_/18xx-Covan-Milk/Covan, 1807-03-24.png -> OpenTTD/v15/_schemes_/18xx-Covan-Milk/Covan, 1807-03-24.png
+	renamed:    screenshot/_schemes_/18xx-Covan-Milk/Covan, 1810-11-05.png -> OpenTTD/v15/_schemes_/18xx-Covan-Milk/Covan, 1810-11-05.png
+	renamed:    screenshot/_schemes_/2025-06-26 17_52_37-Window.jpg -> OpenTTD/v15/_schemes_/2025-06-26 17_52_37-Window.jpg
+	renamed:    screenshot/_schemes_/2025-06-26 18_08_17-Window.jpg -> OpenTTD/v15/_schemes_/2025-06-26 18_08_17-Window.jpg
+	renamed:    screenshot/_schemes_/2025-06-26 18_17_04-Window.jpg -> OpenTTD/v15/_schemes_/2025-06-26 18_17_04-Window.jpg
+	renamed:    screenshot/_schemes_/2025-06-26 18_23_50-Window.jpg -> OpenTTD/v15/_schemes_/2025-06-26 18_23_50-Window.jpg
+	renamed:    screenshot/_schemes_/2025-07-18 02_03_44-OpenTTD 15.0-beta2.jpg -> OpenTTD/v15/_schemes_/2025-07-18 02_03_44-OpenTTD 15.0-beta2.jpg
+	renamed:    screenshot/_schemes_/2025-07-18 02_20_50-OpenTTD 15.0-beta2.jpg -> OpenTTD/v15/_schemes_/2025-07-18 02_20_50-OpenTTD 15.0-beta2.jpg
+	renamed:    screenshot/_schemes_/2025-07-18 02_32_30-OpenTTD 15.0-beta2.jpg -> OpenTTD/v15/_schemes_/2025-07-18 02_32_30-OpenTTD 15.0-beta2.jpg
+	renamed:    screenshot/_schemes_/2025-07-18 02_37_16-OpenTTD 15.0-beta2.jpg -> OpenTTD/v15/_schemes_/2025-07-18 02_37_16-OpenTTD 15.0-beta2.jpg
+	renamed:    OpenTTD/v15/P.P.Dee 1 million rails/2025-07-26 02_04_24-{C__Pictures_Screenshots} - Far 3.0.6364.0 x86 Administrator.jpg -> OpenTTD/v15/_schemes_/P.P.Dee 1 million rails/2025-07-26 02_04_24-{C__Pictures_Screenshots} - Far 3.0.6364.0 x86 Administrator.jpg
+	renamed:    OpenTTD/v15/P.P.Dee 1 million rails/2025-07-26 02_05_06-{C__Pictures_Screenshots} - Far 3.0.6364.0 x86 Administrator.jpg -> OpenTTD/v15/_schemes_/P.P.Dee 1 million rails/2025-07-26 02_05_06-{C__Pictures_Screenshots} - Far 3.0.6364.0 x86 Administrator.jpg
+	renamed:    OpenTTD/v15/P.P.Dee 1 million rails/2025-07-26 02_10_28-{C__Pictures_Screenshots} - Far 3.0.6364.0 x86 Administrator.jpg -> OpenTTD/v15/_schemes_/P.P.Dee 1 million rails/2025-07-26 02_10_28-{C__Pictures_Screenshots} - Far 3.0.6364.0 x86 Administrator.jpg
+	renamed:    OpenTTD/v15/P.P.Dee 1 million rails/2025-07-26 02_17_18-{C__Pictures_Screenshots} - Far 3.0.6364.0 x86 Administrator.jpg -> OpenTTD/v15/_schemes_/P.P.Dee 1 million rails/2025-07-26 02_17_18-{C__Pictures_Screenshots} - Far 3.0.6364.0 x86 Administrator.jpg
+	renamed:    OpenTTD/v15/P.P.Dee 1 million rails/2025-07-26 02_17_28-{C__Pictures_Screenshots} - Far 3.0.6364.0 x86 Administrator.jpg -> OpenTTD/v15/_schemes_/P.P.Dee 1 million rails/2025-07-26 02_17_28-{C__Pictures_Screenshots} - Far 3.0.6364.0 x86 Administrator.jpg
+	renamed:    OpenTTD/v15/P.P.Dee 1 million rails/2025-07-26 02_33_34-{C__Pictures_Screenshots} - Far 3.0.6364.0 x86 Administrator.jpg -> OpenTTD/v15/_schemes_/P.P.Dee 1 million rails/2025-07-26 02_33_34-{C__Pictures_Screenshots} - Far 3.0.6364.0 x86 Administrator.jpg
+	renamed:    OpenTTD/v15/P.P.Dee 1 million rails/2025-07-26 02_33_41-{C__Pictures_Screenshots} - Far 3.0.6364.0 x86 Administrator.jpg -> OpenTTD/v15/_schemes_/P.P.Dee 1 million rails/2025-07-26 02_33_41-{C__Pictures_Screenshots} - Far 3.0.6364.0 x86 Administrator.jpg
+	renamed:    OpenTTD/v15/P.P.Dee 1 million rails/2025-07-26 02_48_51-{C__Pictures_Screenshots} - Far 3.0.6364.0 x86 Administrator.jpg -> OpenTTD/v15/_schemes_/P.P.Dee 1 million rails/2025-07-26 02_48_51-{C__Pictures_Screenshots} - Far 3.0.6364.0 x86 Administrator.jpg
+	renamed:    OpenTTD/v15/P.P.Dee 1 million rails/P. P. Dee, 1828-01-05 Start Trains.sav -> OpenTTD/v15/_schemes_/P.P.Dee 1 million rails/P. P. Dee, 1828-01-05 Start Trains.sav
+	renamed:    OpenTTD/v15/P.P.Dee New rails/2025-07-23 01_47_37-OpenTTD 15.0-beta2.jpg -> OpenTTD/v15/_schemes_/P.P.Dee New rails/2025-07-23 01_47_37-OpenTTD 15.0-beta2.jpg
+	renamed:    OpenTTD/v15/P.P.Dee New rails/2025-07-23 01_48_32-OpenTTD 15.0-beta2.jpg -> OpenTTD/v15/_schemes_/P.P.Dee New rails/2025-07-23 01_48_32-OpenTTD 15.0-beta2.jpg
+	renamed:    OpenTTD/v15/P.P.Dee New rails/2025-07-23 02_06_46-OpenTTD 15.0-beta2.jpg -> OpenTTD/v15/_schemes_/P.P.Dee New rails/2025-07-23 02_06_46-OpenTTD 15.0-beta2.jpg
+	renamed:    OpenTTD/v15/P.P.Dee New rails/2025-07-23 02_24_07-OpenTTD 15.0-beta2.jpg -> OpenTTD/v15/_schemes_/P.P.Dee New rails/2025-07-23 02_24_07-OpenTTD 15.0-beta2.jpg
+	renamed:    OpenTTD/v15/P.P.Dee New rails/2025-07-26 01_10_55-OpenTTD 15.0-beta2.jpg -> OpenTTD/v15/_schemes_/P.P.Dee New rails/2025-07-26 01_10_55-OpenTTD 15.0-beta2.jpg
+	renamed:    OpenTTD/v15/P.P.Dee New rails/2025-07-26 01_11_12-OpenTTD 15.0-beta2.jpg -> OpenTTD/v15/_schemes_/P.P.Dee New rails/2025-07-26 01_11_12-OpenTTD 15.0-beta2.jpg
+	renamed:    OpenTTD/v15/P.P.Dee New rails/2025-07-26 01_11_31-OpenTTD 15.0-beta2.jpg -> OpenTTD/v15/_schemes_/P.P.Dee New rails/2025-07-26 01_11_31-OpenTTD 15.0-beta2.jpg
+	renamed:    OpenTTD/v15/P.P.Dee New rails/2025-07-26 01_11_59-OpenTTD 15.0-beta2.jpg -> OpenTTD/v15/_schemes_/P.P.Dee New rails/2025-07-26 01_11_59-OpenTTD 15.0-beta2.jpg
+	renamed:    OpenTTD/v15/P.P.Dee New rails/P. P. Dee, 1827-09-14 new rails.sav -> OpenTTD/v15/_schemes_/P.P.Dee New rails/P. P. Dee, 1827-09-14 new rails.sav
+	renamed:    OpenTTD/v15/rails-1860-1862/2025-03-23 21_42_36-Greenshot.png -> OpenTTD/v15/_schemes_/rails-1860-1862/2025-03-23 21_42_36-Greenshot.png
+	renamed:    OpenTTD/v15/rails-1860-1862/2025-03-23 22_28_16-Greenshot.png -> OpenTTD/v15/_schemes_/rails-1860-1862/2025-03-23 22_28_16-Greenshot.png
+	renamed:    OpenTTD/v15/rails-1860-1862/2025-03-23 22_28_27-Greenshot.png -> OpenTTD/v15/_schemes_/rails-1860-1862/2025-03-23 22_28_27-Greenshot.png
+	renamed:    OpenTTD/v15/rails-1860-1862/2025-03-23 22_28_34-Greenshot.png -> OpenTTD/v15/_schemes_/rails-1860-1862/2025-03-23 22_28_34-Greenshot.png
+	new file:   OpenTTD/v15/_schemes_/rails-xX-cross/2025-08-20 01_54_36-Window.jpg
+	new file:   OpenTTD/v15/_schemes_/rails-xX-cross/2025-08-20 01_56_42-Window.jpg
+	new file:   OpenTTD/v15/_schemes_/rails-xX-cross/2025-08-20 02_09_13-Window.jpg
+	new file:   OpenTTD/v15/_schemes_/rails-xX-cross/2025-08-20 02_10_42-Window.jpg
+	new file:   OpenTTD/v15/_schemes_/rails/2025-08-10 00_29_28-OpenTTD 15.0-beta2.jpg
+	modified:   README.MD
+	new file:   YETIS.MD
+	new file:   content_download/newgrf/48410101-NUTS_Unrealistic_Train_Set-0.8.6.tar
+	new file:   content_download/newgrf/56420303-YETI_Extended_Towns_Industrie-0.1.6.tar
+	modified:   openttd.cfg
+	deleted:    save/1840-01-04-start.sav
+	deleted:    save/1840-01-16-first-rails.sav
+	deleted:    save/1840-01-18-first-trains.sav
+	new file:   save/Eights With Scenario.zip
+	deleted:    save/Fifty Cent, 1840-01-24 Tourists First.sav
+	deleted:    save/Fifty Cent, 1840-03-13 CityBuses and 1st sub.sav
+	deleted:    save/Fifty Cent, 1840-05-01 minus.sav
+	deleted:    save/Fifty Cent, 1840-05-22 Rails and Trains NE.sav
+	deleted:    save/Fifty Cent, 1840-11-02 1st Circus.sav
+	deleted:    save/Fifty Cent, 1840-11-02 1st sub ok.sav
+	deleted:    save/Fifty Cent, 1841-10-08 go subs.sav
+	deleted:    save/Fifty Cent, 1842-01-07 200kpy.sav
+	deleted:    save/Fifty Cent, 1842-11-08 first troubles.sav
+	deleted:    save/Fifty Cent, 1843-01-02 350 kpy.sav
+	deleted:    save/Fifty Cent, 1843-06-12 force grows.sav
+	deleted:    save/Fifty Cent, 1843-09-01 the Loan is Closed!.sav
+	deleted:    save/Fifty Cent, 1844-01-14 500kpy.sav
+	new file:   save/Yetis, 1903 First Yetis.sav
+	new file:   save/Yetis, 1903.sav
+	deleted:    save/ttt.sav
+	new file:   scenario/Eights, 1902.scn
+	renamed:    scenario/Plain256x128x2.scn -> scenario/Plains256x128x2.scn
+	new file:   scenario/heightmap/1024x256x15-src-2.png
+	new file:   scenario/heightmap/1024x256x15.png
+	new file:   scenario/heightmap/1024x256x8.png
+	renamed:    scenario/heightmap/Plain256x128x2-src.png -> scenario/heightmap/Plains256x128x2-src.png
+	renamed:    scenario/heightmap/Plain256x128x2.png -> scenario/heightmap/Plains256x128x2.png
+	deleted:    screenshot/screenshot#1.png
+	deleted:    screenshot/screenshot.png
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    content_download/newgrf_/32323322-Russian_Town_Names-5.tar
+	deleted:    content_download/newgrf_/44419501-Crazy_Town_Names-0.1.tar
+	deleted:    content_download/newgrf_/cf6f0000-Ukrainian_Town_Names-1.0.tar
+	deleted:    content_download/newgrf_/fbfb0a01-Useless_Tracks-0.1.0.tar
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	git.log
+
+* 7d2577b - (6 hours ago) Yetis Scenario Backlog - Dee (origin/plains-test)
+* d4d7ad0 - (6 hours ago) Yetis 1903 First Yetis - Dee
+* b704d58 - (7 hours ago) Rename to 1024x256x15.png because minmax heights - Dee
+* 505a13f - (9 hours ago) New scene 1024x256x16 bad not ready yet - Dee
+* a538b5f - (34 hours ago) Eights 1902-autosave - Dee
+* 7150eca - (9 days ago) README.MD maybe 256x256 with 4 islands - Dee
+* f13d615 - (9 days ago) Backlog README-Plains-256x128x2.MD - Dee
+| * 880488b - (9 days ago) maybe 512x512 with one wide circle - Dee (HEAD -> initial, origin/initial, origin/HEAD)
+| * f4a4bd9 - (9 days ago) Need Coal NE maybe Beach Industry and Villages - Dee
+|/  
+* aa6bcc1 - (9 days ago) Fifty-Cent-1840-1844.zip - Dee
+* f12d4cb - (11 days ago) up - Dee
+* b40457c - (13 days ago) Continue - Dee
+* d07267b - (2 weeks ago) up - Dee
+* a8b8677 - (2 weeks ago) New scenario Plain To test transport evolution - Dee
+* 790e706 - (2 weeks ago) New scenario Island Kreem 1809 - Dee
+* 7bc4032 - (4 weeks ago) merged theirs - Dee
+* c0e5a2d - (4 weeks ago) merged theirs - Dee
+* 767200e - (4 weeks ago) merged theirs - Dee
+* d9b06e6 - (4 weeks ago) P.P.Dee 1827-08-21 - Dee
+* a7c1c7e - (4 weeks ago) 1816-1824-16-layers-looks-good - Dee
+* 1a6f4f1 - (4 weeks ago) Try 16 layers 1816 FIRS 5b4 - Dee
+* ea9040c - (4 weeks ago) New sccenario 16 layers gulf v15b - Dee
+* 632fd83 - (4 weeks ago) Save 4 islands start 16 layers - Dee
+* 1828717 - (5 weeks ago) 4-islands testing 1822-01-06 horses ships and railways - Dee
+* 49c2d46 - (5 weeks ago) Fixed Slenfield useless iron mine - Dee
+* eeabc5a - (5 weeks ago) Fix Wrondworth v011 - Dee
+* 5500cf3 - (5 weeks ago) 4 islands 1818-07-13 First Subs - Dee
+* 96ea422 - (5 weeks ago) All chains are complete Start test 4-islands-010 - Dee
+* 1f2e978 - (5 weeks ago) 4 Islands ready for tests - Dee
+* 9ba0ebe - (5 weeks ago) Continue 4-islands-proto - Dee
+* 36b0dfc - (5 weeks ago) tag Tag 4-islands-proto - Dee
+* 6a948dc - (5 weeks ago) New proto 4 islands 20 villages 5 cities - Dee
+* 6072926 - (5 weeks ago) Saves can NOT be copied to .scn!!! - Dee
+* cb305ad - (5 weeks ago) Saves can be copied to .scn! - Dee
+* dab0557 - (5 weeks ago) New tag 16-islands-first-run - Dee
+* 1c1956c - (5 weeks ago) 16 islands first run 1818-1825 - Dee
+* 375d9be - (5 weeks ago) Update-remotes-14.07.2025-14:40:52 44 - Dee
+* fcbf0cf - (7 weeks ago) Add Nauru 1907 Scenario - Dee
+* f1c272f - (8 weeks ago) Islanders 256x 1815 Looks Great Next: Continue Coal to - Dee
+* 0e30064 - (8 weeks ago) 1815 Island - Dee
+* d3f6fc5 - (8 weeks ago) in openttd.cfg change [construction] - Dee
+* 0cde8cb - (8 weeks ago) gitignore - Dee
+* 5644165 - (8 weeks ago) Dees 1820-1823 - Dee
+* 3e67aca - (8 weeks ago) Remember Minimal map 512x512 (industries minimum placed) - Dee
+* 0fd1a41 - (8 weeks ago) Remember Minimal map 512x512 (industries minimum placed) - Dee
+* f33a928 - (8 weeks ago) Init new 1800s 512x Balanced Villages 1813s Refactor rails - Dee
+* 9ec83f6 - (8 weeks ago) Add README.MD - Dee
