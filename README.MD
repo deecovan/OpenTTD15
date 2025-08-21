@@ -1,5 +1,13 @@
 # OpenTTD15 GitHub repo 
 
+## Yetis, 1903 First Yetis
+- Using Heightmap 1024x256x15.png
+- Using Yeti eco with required graphics
+- Minimum mods for 1900s:
+  - Horses (pass and cargo)
+  - Steam Ships
+  - Early Aviation
+
 ## 25-08-05 New scenario Plains256x128x2
 - 25-08-12 Plains new start
 - 2 sides to compare transport schemes
