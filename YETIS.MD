@@ -6,6 +6,14 @@
   - Steam Ships
   - Early Aviation
 
+## 25-08-22 Yetis testing
+- Try to add FIRS
+  - Research howto merge into one pack
+    It must be FIRS with Yetis to double production
+- Try to add Yetis to other wagons
+- Try to remove stuped wagons from Yetis
+- Continue testing Longer Rails
+
 ## 25-08-21 Yetis 1900 Start
 - Used Mods:
   - 56420303-yeti_extended_towns_industrie-0.1.6.tar
