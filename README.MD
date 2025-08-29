@@ -1,5 +1,11 @@
 # OpenTTD15 GitHub repo 
 
+## 30-08 Default FIRS v5
+- 512x256x15 map
+- FIRS only
+- backup/rename old settings
+* Tested 4 years 1950+ All works
+
 ## 25-08-25 1900s(Yetis) testing 
 - 1903 Square Rails Logistic
 
