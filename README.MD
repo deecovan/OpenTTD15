@@ -7,6 +7,11 @@
 - Add Yeti NewGRF
   - using [25-08-21 Yetis 1900 Start](./YETIS.MD)
   - Add Renewed Village Growth
+- Create MyLand empty
+- Create MyLand Cities and Fields 
+  - 10 Cities with nearby Yetis 
+  - 3 Fields
+  - 3 Merchants
 
 ## 30-08 Default FIRS v5
 - 512x256x15 map
