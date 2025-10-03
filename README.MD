@@ -1,5 +1,8 @@
 # OpenTTD15 GitHub repo 
 
+## 25-10-04 Myland Yeti
+- create scenario Myland.scn for 1880 Yeti Villagers Industry Plus
+
 ## 30-08 Default FIRS v5
 - 512x256x15 map
 - FIRS only
