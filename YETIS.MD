@@ -3,6 +3,10 @@
 ## 25-10-04 Myland Yeti
 - using 25-08-21 Yetis 1900 Start
 - Add Villagers Industry scipt
+- Start MyLand Yeti 1820 Testing
+  - 10 Cities with placed Yetis
+  - 3 Fields
+  - 3 Merchants
 
 ## BackLog
 - Using Heightmap 1024x256x15.png

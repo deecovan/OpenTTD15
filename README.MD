@@ -1,7 +1,7 @@
 # OpenTTD15 GitHub repo 
 
 ## 25-10-04 Myland Yeti
-- Create scenario Myland.scn for 1840 Yeti Villagers Industry Plus
+- Create scenario Myland.scn for 1820 Yeti Villagers Industry Plus
 - Save HeightMap
 - Start new scenario
 - Add Yeti NewGRF
@@ -12,6 +12,7 @@
   - 10 Cities with nearby Yetis 
   - 3 Fields
   - 3 Merchants
+* Start MyLand Yeti 1820 Testing
 
 ## 30-08 Default FIRS v5
 - 512x256x15 map
