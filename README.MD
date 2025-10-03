@@ -1,6 +1,9 @@
 # OpenTTD15 GitHub repo 
 
 ## 25-10-04 Myland Yeti
+- Script error! Use without Villages!!!
+
+## 25-10-04 Myland Yeti
 - Create scenario Myland.scn for 1820 Yeti Villagers Industry Plus
 - Save HeightMap
 - Start new scenario
