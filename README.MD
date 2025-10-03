@@ -1,7 +1,7 @@
 # OpenTTD15 GitHub repo 
 
 ## 25-10-04 Myland Yeti
-- Script error! Use without Villages!!!
+- Tested up to 1822 First Positive
 
 ## 25-10-04 Myland Yeti
 - Create scenario Myland.scn for 1820 Yeti Villagers Industry Plus
@@ -16,6 +16,7 @@
   - 3 Fields
   - 3 Merchants
 * Start MyLand Yeti 1820 Testing
+- Script error! Use without Villages!!!
 
 ## 30-08 Default FIRS v5
 - 512x256x15 map
