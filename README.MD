@@ -1,7 +1,12 @@
 # OpenTTD15 GitHub repo 
 
 ## 25-10-04 Myland Yeti
-- create scenario Myland.scn for 1880 Yeti Villagers Industry Plus
+- Create scenario Myland.scn for 1840 Yeti Villagers Industry Plus
+- Save HeightMap
+- Start new scenario
+- Add Yeti NewGRF
+  - using [25-08-21 Yetis 1900 Start](./YETIS.MD)
+  - Add Renewed Village Growth
 
 ## 30-08 Default FIRS v5
 - 512x256x15 map
