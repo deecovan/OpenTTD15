@@ -2,6 +2,8 @@
 
 ## 25-10-04 Myland Yeti
 - Tested up to 1822 First Positive
+- @TODO there is Height 8 in the HeightMap!!!
+ -  try 12 downto 8
 
 ## 25-10-04 Myland Yeti
 - Create scenario Myland.scn for 1820 Yeti Villagers Industry Plus
