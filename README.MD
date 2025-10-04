@@ -4,10 +4,11 @@
 - Current heightmap
 - Current villages
 - Random industry (maybe)
-  - Villages.scn
   - Industries.scn
+  - Villages.scn
   - Forest.scn
   - Blank.scn
+- Yetis Inc. 1820 Industries without scripts!!!
 
 ## 25-10-04 Myland Yeti
 - Tested up to 1822 First Positive
