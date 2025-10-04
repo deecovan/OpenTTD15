@@ -1,5 +1,14 @@
 # OpenTTD15 GitHub repo 
 
+## Ready to create Yetiland Scenario
+- Current heightmap
+- Current villages
+- Random industry (maybe)
+  - Villages.scn
+  - Industries.scn
+  - Forest.scn
+  - Blank.scn
+
 ## 25-10-04 Myland Yeti
 - Tested up to 1822 First Positive
 - @TODO there is Height 8 in the HeightMap!!!

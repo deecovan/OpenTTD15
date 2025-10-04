@@ -1,5 +1,10 @@
 # Yetis Scenarios
 
+## Ready to create Yetiland Scenario
+- Current heightmap
+- Current villages
+- Random industry (maybe)
+
 ## 25-10-04 Myland Yeti
 - using 25-08-21 Yetis 1900 Start
 - Add Villagers Industry scipt
