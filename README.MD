@@ -1,5 +1,9 @@
 # OpenTTD15 GitHub repo 
 
+## New heightmaps
+- CitiYeties 512x30 
+- Start new 512x height 30 with NewGRF 1700+ FIRS Steeltown Village Growth
+
 ## Ready to create Yetiland Scenario
 - Current heightmap
 - Current villages
