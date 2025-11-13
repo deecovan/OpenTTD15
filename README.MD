@@ -1,7 +1,10 @@
 # OpenTTD15 GitHub repo 
 
 ## 25.11.13 try new yetti 
-- Trams Rules!
+- Trams Rules
+- Add Trains to Yeti++
+- Starting 1880
+- DELETE OLD SAVES
 
 ## 25.10.25 New heightmaps
 - CitiYeties 512x30 
