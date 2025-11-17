@@ -1,5 +1,9 @@
 # Yetis Scenarios
 
+## 1700++
+- Add 32bpp to 1700+
+- used FIRS4
+
 ## Ready to create Yetiland Scenario
 - Current heightmap
 - Current villages
