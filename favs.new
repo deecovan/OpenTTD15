@@ -13,15 +13,6 @@
 
 [fav_houses]
 
-[version]
-<<<<<<< HEAD
-version_string = 15.1
-=======
-version_string = 15.0
->>>>>>> origin/v15
-version_number = 1F086D64
-ini_version = 7
-
 [badges_trains]
 
 [badges_roadvehicles]
@@ -37,3 +28,8 @@ ini_version = 7
 [badges_objects]
 
 [badges_roadstops]
+
+[version]
+version_string = 15.0
+version_number = 1F086D64
+ini_version = 7
