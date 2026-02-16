@@ -1,10 +1,5 @@
 # OpenTTD15 GitHub repo 
 
-## 26.02.09 Slim
-- Updated for Slim 
-- Need to redownload all mods
-
-
 ## 25.11.13 try new yetti 
 - Trams Rules
 - Add Trains to Yeti++
