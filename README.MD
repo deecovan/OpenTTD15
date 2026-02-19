@@ -1,5 +1,10 @@
 # OpenTTD15 GitHub repo 
 
+## 15.2
+- Updated 
+- CZTR and Mimberwolf installed 
+- 1880 started
+
 ## 25.11.13 try new yetti 
 - Trams Rules
 - Add Trains to Yeti++
